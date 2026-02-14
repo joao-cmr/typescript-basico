@@ -14,4 +14,4 @@ console.log(valores);
 console.log(vteste);
 
 //cuidado ao usar any, pois perde-se a tipagem e o controle do código, podendo gerar erros em tempo de execução
-// o mesmo vale para o union, pois pode-se atribuir qualquer tipo de valor, o que pode gerar erros em tempo de execução
+// o mesmo vale para o union
